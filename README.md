@@ -6,7 +6,7 @@ Este projeto explora os dados de emissão de dióxido de carbono (CO₂) por pa�
 
 O projeto é composto por dois arquivos principais:  
 
-1. **Análises e Gráficos (`.ipynb`)**  
+1. **Análises e Gráficos (`relatorio.ipynb`)**  
    - Contém as análises detalhadas dos dados e os gráficos gerados para ilustrar os resultados.  
    - Ferramentas utilizadas: Python e bibliotecas como Pandas, Matplotlib e Seaborn.  
 
