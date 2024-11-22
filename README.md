@@ -22,7 +22,7 @@ O projeto é composto por dois arquivos principais:
 
 Analisar como as emissões de CO₂ variam:  
 - Entre diferentes países e continentes.  
-- Ao longo do tempo, identificando possíveis tendências históricas.  
+- Ao longo do tempo.  
 
 ## Tecnologias Utilizadas  
 
@@ -38,7 +38,7 @@ Analisar como as emissões de CO₂ variam:
 ## Como Utilizar  
 
 1. **Análises Detalhadas**:  
-   - Abra o arquivo `.ipynb` em um ambiente Jupyter Notebook ou similar para acessar as análises e gráficos.  
+   - Abra o arquivo `relatrorio.ipynb` em um ambiente Jupyter Notebook ou similar para acessar as análises e gráficos.  
 
 2. **Página Web Interativa**:  
    - Certifique-se de ter o Streamlit instalado:  
